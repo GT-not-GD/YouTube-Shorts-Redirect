@@ -24,11 +24,11 @@
 
 点击链接后，您的用户脚本管理器会打开一个安装确认页面。请检查脚本信息，然后点击“安装”或“确认”按钮。
 
-## 使用方法
+## 🤔 使用方法 (Usage)
 
-安装脚本后，访问任何 YouTube Shorts 视频页面即可。脚本将在页面加载后自动重定向。
+脚本安装成功并启用后，您无需进行任何额外操作。每当您点击或直接访问一个形如 `https://www.youtube.com/shorts/VIDEO_ID` 的 YouTube Shorts 链接时，脚本会自动检测并立即将您重定向到对应的 `https://www.youtube.com/watch?v=VIDEO_ID` 标准视频观看页面。
 
-## 兼容性
+## 🧩 兼容性 (Compatibility)
 
 此脚本设计用于 `https://www.youtube.com/shorts/*`。
 
