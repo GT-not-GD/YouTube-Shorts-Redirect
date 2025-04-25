@@ -10,7 +10,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @downloadURL  https://raw.githubusercontent.com/GT-not-GD/YouTube-Shorts-Redirect/master/YouTube-Shorts-Redirect.user.js // 
 // @updateURL    https://raw.githubusercontent.com/GT-not-GD/YouTube-Shorts-Redirect/master/YouTube-Shorts-Redirect.user.js // 
-// ==UserScript==
+// ==/UserScript==
 
 (function() {
     'use strict';
