@@ -24,9 +24,13 @@
 
 点击链接后，您的用户脚本管理器会打开一个安装确认页面。请检查脚本信息，然后点击“安装”或“确认”按钮。
 
-## 🤝 Contributing (贡献)
+## 使用方法
 
-如果您有改进建议或错误修复，欢迎提交 issues 或 pull requests。
+安装脚本后，访问任何 YouTube Shorts 视频页面即可。脚本将在页面加载后自动重定向。
+
+## 兼容性
+
+此脚本设计用于 `https://www.youtube.com/shorts/*`。
 
 ## 📄 License (许可证)
 
