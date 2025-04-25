@@ -1,13 +1,16 @@
 // ==UserScript==
 // @name         YouTube Shorts Redirect (重定向 Shorts 到标准观看页面)
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      1.0
 // @description  Automatically redirects YouTube Shorts URLs (youtube.com/shorts/...) to standard watch URLs (youtube.com/watch?v=...)
 // @author       GT
 // @match        https://www.youtube.com/shorts/*
 // @grant        none
+// @license      MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// ==/UserScript==
+// @downloadURL  https://raw.githubusercontent.com/GT-not-GD/YouTube-Shorts-Redirect/master/YouTube-Shorts-Redirect.user.js)
+// @updateURL    https://raw.githubusercontent.com/GT-not-GD/YouTube-Shorts-Redirect/master/YouTube-Shorts-Redirect.user.js)
+// ==UserScript==
 
 (function() {
     'use strict';
